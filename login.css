@@ -1,0 +1,8 @@
+/* Login Page Styles */
+.login-section {
+    background: url='https://static.vecteezy.com/system/resources/previews/004/928/056/original/mental-health-awareness-with-meditation-background-free-vector.jpg'no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
